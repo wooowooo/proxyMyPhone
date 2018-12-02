@@ -28,6 +28,7 @@ Then it will give you an address. On your phone's wifi setting layout, set proxy
 
 - [ProxyDroid](https://play.google.com/store/apps/details?id=org.proxydroid) ([Source](https://github.com/madeye/proxydroid)) (need root)
 - [Brook](https://github.com/txthinking/brook)
+- [BifrostV](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)
  
 ### iOS 
 
